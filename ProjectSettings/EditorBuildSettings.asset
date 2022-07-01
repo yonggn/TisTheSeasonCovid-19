@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Letter.unity
+    guid: e1eba8d72868b2c47ae3178383b22b5f
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: 326ad41dcc371a54d80b87716c6d837b
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 2b0af7676c946ec47a01d9ef8425544e
+  - enabled: 1
+    path: Assets/Scenes/HaveStore.unity
+    guid: 6a654420a3e762e4c94050e1b6256517
+  - enabled: 1
+    path: Assets/Scenes/Store.unity
+    guid: d442852f9f31507469d755082a16d01f
+  - enabled: 1
+    path: Assets/Scenes/ToOffice.unity
+    guid: e3fa1b64d5d2fbf438adaffc58b4d929
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: d563891f5ce338b48b1d634adab7c005
+  - enabled: 1
+    path: Assets/Scenes/DrNoorHisham.unity
+    guid: 315343c0dc55dd74cb02b0e36e84c69a
+  - enabled: 1
+    path: Assets/Scenes/Hospital.unity
+    guid: 0f58ee28c2a59dc4fa19ecb8f5f13166
+  - enabled: 1
+    path: Assets/Scenes/FreeMove.unity
+    guid: bfe87e29dd5827b41b073c39466a400c
+  - enabled: 1
+    path: Assets/Scenes/StoreFree.unity
+    guid: 96502bc5c3a8a76419b1045376fc9b5f
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 2faee7c8554dc68429a9536d2427db1d
+  - enabled: 1
+    path: Assets/Scenes/1Free.unity
+    guid: cb7c2eb6b1272a143937586ac51ce055
+  - enabled: 1
+    path: Assets/Scenes/2Free.unity
+    guid: 3e49f7f0b65304f4e8d26551a0200824
+  - enabled: 1
+    path: Assets/Scenes/Store 1.unity
+    guid: 42ea88adcbf94fa4c9a6102fbf3ce1b3
+  - enabled: 1
+    path: Assets/Scenes/Store 2.unity
+    guid: c5705c8179661fb4eb7abe3157e406b0
+  - enabled: 1
+    path: Assets/Scenes/Store 3.unity
+    guid: d271f25f04f0666448122dd13208769c
+  - enabled: 1
+    path: Assets/Scenes/Store 4.unity
+    guid: e6cb81973169f484e940f83e8a02f190
+  - enabled: 1
+    path: Assets/Scenes/Store 5.unity
+    guid: 915ee3926766603488185a1d3a435c14
+  m_configObjects: {}
